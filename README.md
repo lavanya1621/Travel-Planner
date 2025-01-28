@@ -12,8 +12,5 @@
 2. Get a customized travel plan generated just for you.
 3. Refine your inputs to explore different options.
 
-## Try It Out
-[**Travel Planner App**](https://travel-planner-21.streamlit.app/)
-
 This project showcases expertise in personalization, user-centric design, and interactive app development. A perfect tool for travel enthusiasts and planners!
 
